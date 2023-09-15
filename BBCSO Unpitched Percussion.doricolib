@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kScoreLibrary>
+	<fileVersion>1.1143</fileVersion>
+	<temperaments>
+		<entities array="true"/>
+	</temperaments>
+	<accidentalSystems>
+		<entities array="true"/>
+	</accidentalSystems>
+	<accidentalDefinitions>
+		<entities array="true"/>
+	</accidentalDefinitions>
+	<tonalitySystemDefinitions>
+		<entities array="true"/>
+	</tonalitySystemDefinitions>
+	<ensembles>
+		<entities array="true"/>
+	</ensembles>
+	<instruments>
+		<entities array="true"/>
+	</instruments>
+	<instrumentNames>
+		<entities array="true"/>
+		<language>kEnglish</language>
+	</instrumentNames>
+	<instrumentFamilies>
+		<entities array="true"/>
+	</instrumentFamilies>
+	<instrumentScoreOrders>
+		<entities array="true"/>
+	</instrumentScoreOrders>
+	<clefDefinitions>
+		<entities array="true"/>
+	</clefDefinitions>
+	<ottavaLineDefinitions>
+		<entities array="true"/>
+	</ottavaLineDefinitions>
+	<noteheadSetDefinitions>
+		<entities array="true"/>
+	</noteheadSetDefinitions>
+	<noteheadDefinitions>
+		<entities array="true"/>
+	</noteheadDefinitions>
+	<restSetDefinitions>
+		<entities array="true"/>
+	</restSetDefinitions>
+	<restDefinitions>
+		<entities array="true"/>
+	</restDefinitions>
+	<flagSetDefinitions>
+		<entities array="true"/>
+	</flagSetDefinitions>
+	<flagDefinitions>
+		<entities array="true"/>
+	</flagDefinitions>
+	<graphicDefinitions>
+		<entities array="true"/>
+	</graphicDefinitions>
+	<blobDefinitions>
+		<entities array="true"/>
+	</blobDefinitions>
+	<drawingDefinitions>
+		<entities array="true"/>
+	</drawingDefinitions>
+	<textDefinitions>
+		<entities array="true"/>
+	</textDefinitions>
+	<glyphDefinitions>
+		<entities array="true"/>
+	</glyphDefinitions>
+	<compositeDefinitions>
+		<entities array="true"/>
+	</compositeDefinitions>
+	<tempoPresetDefinitions>
+		<entities array="true"/>
+	</tempoPresetDefinitions>
+	<rhythmicFeelDefinitions>
+		<entities array="true"/>
+	</rhythmicFeelDefinitions>
+	<penstyles>
+		<entities array="true"/>
+	</penstyles>
+	<fontstyles>
+		<entities array="true"/>
+	</fontstyles>
+	<brushstyles>
+		<entities array="true"/>
+	</brushstyles>
+	<pagePairDefinitionSets>
+		<entities array="true"/>
+	</pagePairDefinitionSets>
+	<pageDimensionPresets>
+		<entities array="true"/>
+	</pageDimensionPresets>
+	<paragraphStyles>
+		<entities array="true"/>
+	</paragraphStyles>
+	<characterStyles>
+		<entities array="true"/>
+	</characterStyles>
+	<playingTechniques>
+		<entities array="true"/>
+	</playingTechniques>
+	<ornamentDefinitions>
+		<entities array="true"/>
+	</ornamentDefinitions>
+	<multiSegmentLineDefinitions>
+		<entities array="true"/>
+	</multiSegmentLineDefinitions>
+	<playingTechniqueAppearanceCollectionDefinition>
+		<entities array="true"/>
+	</playingTechniqueAppearanceCollectionDefinition>
+	<expressionMapDefinitions>
+		<entities array="true"/>
+	</expressionMapDefinitions>
+	<drumKitNoteMapDefinitions>
+		<entities array="true">
+			<DrumKitNoteMapDefinition>
+				<name>BBCSO Unpitched Percussion</name>
+				<entityID>drumkitmap.user.bbcso_unpitched_percussion</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<version>2</version>
+				<forSingleInstrument>false</forSingleInstrument>
+				<entries array="true">
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.bass.drum</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>48</pitch>
+						<keyswitches>1</keyswitches>
+						<name>Bass Drum</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.castanets</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>48</pitch>
+						<keyswitches>11</keyswitches>
+						<name>Castanets</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.high</instrumentEntityID>
+						<techniqueIDs>pt.muted</techniqueIDs>
+						<pitch>48</pitch>
+						<keyswitches>3</keyswitches>
+						<name>Crash Cymbal (Muted)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.band.unpitched.marching.bass.drum</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>48</pitch>
+						<keyswitches>2</keyswitches>
+						<name>Marching Bass Drum</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.band.unpitched.marching.snare.drum.solo.snares-on</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>48</pitch>
+						<keyswitches>4</keyswitches>
+						<name>Military Drum</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.clash.cymbals</instrumentEntityID>
+						<techniqueIDs>pt.choke</techniqueIDs>
+						<pitch>48</pitch>
+						<keyswitches>5</keyswitches>
+						<name>Piatti (Choke)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.snare.drum</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>48</pitch>
+						<keyswitches>6</keyswitches>
+						<name>Snare 1</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.band.unpitched.marching.snare.drum</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>48</pitch>
+						<keyswitches>7</keyswitches>
+						<name>Snare 2</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.tamtam</instrumentEntityID>
+						<techniqueIDs>pt.damp</techniqueIDs>
+						<pitch>48</pitch>
+						<keyswitches>8</keyswitches>
+						<name>Tam Tam (Damped)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.percussion.other.tambourine</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>48</pitch>
+						<keyswitches>9</keyswitches>
+						<name>Tambourine</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.tenor.drum.medium</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>48</pitch>
+						<keyswitches>10</keyswitches>
+						<name>Tenor Drum</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.triangle</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>48</pitch>
+						<keyswitches>12</keyswitches>
+						<name>Triangle</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.anvil</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>48</pitch>
+						<keyswitches>0</keyswitches>
+						<name>Untuned Anvil</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.high</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>49</pitch>
+						<keyswitches>3</keyswitches>
+						<name>Crash Cymbal</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.bass.drum</instrumentEntityID>
+						<techniqueIDs>pt.damp</techniqueIDs>
+						<pitch>52</pitch>
+						<keyswitches>1</keyswitches>
+						<name>Bass Drum (Damped)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.band.unpitched.marching.bass.drum</instrumentEntityID>
+						<techniqueIDs>pt.user.hard_sticks</techniqueIDs>
+						<pitch>52</pitch>
+						<keyswitches>2</keyswitches>
+						<name>Marching Bass Drum (Hard Sticks)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.band.unpitched.marching.snare.drum.solo.snares-on</instrumentEntityID>
+						<techniqueIDs>pt.rimShot</techniqueIDs>
+						<pitch>52</pitch>
+						<keyswitches>4</keyswitches>
+						<name>Military Drum (Rimshot)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.clash.cymbals</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>52</pitch>
+						<keyswitches>5</keyswitches>
+						<name>Piatti</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.snare.drum</instrumentEntityID>
+						<techniqueIDs>pt.rimShot</techniqueIDs>
+						<pitch>52</pitch>
+						<keyswitches>6</keyswitches>
+						<name>Snare 1 (Rimshot)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.band.unpitched.marching.snare.drum</instrumentEntityID>
+						<techniqueIDs>pt.rimShot</techniqueIDs>
+						<pitch>52</pitch>
+						<keyswitches>7</keyswitches>
+						<name>Snare 2 (Rimshot)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.tamtam</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>52</pitch>
+						<keyswitches>8</keyswitches>
+						<name>Tam Tam</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.percussion.other.tambourine</instrumentEntityID>
+						<techniqueIDs>pt.shake</techniqueIDs>
+						<pitch>52</pitch>
+						<keyswitches>9</keyswitches>
+						<name>Tambourine (Shake)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.tenor.drum.medium</instrumentEntityID>
+						<techniqueIDs>pt.rimShot</techniqueIDs>
+						<pitch>52</pitch>
+						<keyswitches>10</keyswitches>
+						<name>Tenor Drum (Rimshot)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.triangle</instrumentEntityID>
+						<techniqueIDs>pt.muted</techniqueIDs>
+						<pitch>52</pitch>
+						<keyswitches>12</keyswitches>
+						<name>Triangle (Muted)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.anvil</instrumentEntityID>
+						<techniqueIDs>pt.choke</techniqueIDs>
+						<pitch>52</pitch>
+						<keyswitches>0</keyswitches>
+						<name>Untuned Anvil Choked</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.percussion.other.wood.block.low</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>52</pitch>
+						<keyswitches>11</keyswitches>
+						<name>Woodblock (Low)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.bass.drum</instrumentEntityID>
+						<techniqueIDs>pt.muted</techniqueIDs>
+						<pitch>53</pitch>
+						<keyswitches>1</keyswitches>
+						<name>Bass Drum (Hand Muted Hit)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.high</instrumentEntityID>
+						<techniqueIDs>pt.muted+pt.user.hard_sticks</techniqueIDs>
+						<pitch>53</pitch>
+						<keyswitches>3</keyswitches>
+						<name>Crash Cymbal (Muted Hard Stick)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.percussion.other.wood.block.medium</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>53</pitch>
+						<keyswitches>11</keyswitches>
+						<name>Woodblock (Medium)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.high</instrumentEntityID>
+						<techniqueIDs>pt.user.hard_sticks</techniqueIDs>
+						<pitch>54</pitch>
+						<keyswitches>3</keyswitches>
+						<name>Crash Cymbal (Hard Stick)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.band.unpitched.marching.bass.drum</instrumentEntityID>
+						<techniqueIDs>pt.damp</techniqueIDs>
+						<pitch>54</pitch>
+						<keyswitches>2</keyswitches>
+						<name>Marching Bass Drum (Damped)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.band.unpitched.marching.snare.drum.solo.snares-on</instrumentEntityID>
+						<techniqueIDs>pt.sideStick</techniqueIDs>
+						<pitch>54</pitch>
+						<keyswitches>4</keyswitches>
+						<name>Military Drum (Side Stick)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.snare.drum</instrumentEntityID>
+						<techniqueIDs>pt.sideStick</techniqueIDs>
+						<pitch>54</pitch>
+						<keyswitches>6</keyswitches>
+						<name>Snare 1 (Side Stick)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.band.unpitched.marching.snare.drum</instrumentEntityID>
+						<techniqueIDs>pt.sideStick</techniqueIDs>
+						<pitch>54</pitch>
+						<keyswitches>7</keyswitches>
+						<name>Snare 2 (Side Stick)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.tenor.drum.medium</instrumentEntityID>
+						<techniqueIDs>pt.sideStick</techniqueIDs>
+						<pitch>54</pitch>
+						<keyswitches>10</keyswitches>
+						<name>Tenor Drum (Side Stick)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.jawbone.alias.vibraslap</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>54</pitch>
+						<keyswitches>11</keyswitches>
+						<name>Vibraslap</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.percussion.other.wood.block.high</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>55</pitch>
+						<keyswitches>11</keyswitches>
+						<name>Woodblock (High)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.band.unpitched.marching.bass.drum</instrumentEntityID>
+						<techniqueIDs>pt.muted</techniqueIDs>
+						<pitch>56</pitch>
+						<keyswitches>2</keyswitches>
+						<name>Marching Bass Drum (Hand Muted)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.bass.drum</instrumentEntityID>
+						<techniqueIDs>pt.tremolo</techniqueIDs>
+						<pitch>57</pitch>
+						<keyswitches>1</keyswitches>
+						<name>Bass Drum (Roll)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.percussion.other.cowbell.high</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>57</pitch>
+						<keyswitches>11</keyswitches>
+						<name>Cowbell</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.high</instrumentEntityID>
+						<techniqueIDs>pt.roll</techniqueIDs>
+						<pitch>57</pitch>
+						<keyswitches>3</keyswitches>
+						<name>Crash Cymbal (Roll)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.band.unpitched.marching.bass.drum</instrumentEntityID>
+						<techniqueIDs>pt.tremolo</techniqueIDs>
+						<pitch>57</pitch>
+						<keyswitches>2</keyswitches>
+						<name>Marching Bass Drum (Roll Hard)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.band.unpitched.marching.snare.drum.solo.snares-on</instrumentEntityID>
+						<techniqueIDs>pt.roll</techniqueIDs>
+						<pitch>57</pitch>
+						<keyswitches>4</keyswitches>
+						<name>Military Drum (Roll)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.clash.cymbals</instrumentEntityID>
+						<techniqueIDs>pt.roll</techniqueIDs>
+						<pitch>57</pitch>
+						<keyswitches>5</keyswitches>
+						<name>Piatti (Roll)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.snare.drum</instrumentEntityID>
+						<techniqueIDs>pt.roll</techniqueIDs>
+						<pitch>57</pitch>
+						<keyswitches>6</keyswitches>
+						<name>Snare 1 (Roll)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.band.unpitched.marching.snare.drum</instrumentEntityID>
+						<techniqueIDs>pt.roll</techniqueIDs>
+						<pitch>57</pitch>
+						<keyswitches>7</keyswitches>
+						<name>Snare 2 (Roll)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.tamtam</instrumentEntityID>
+						<techniqueIDs>pt.roll</techniqueIDs>
+						<pitch>57</pitch>
+						<keyswitches>8</keyswitches>
+						<name>Tam Tam (Roll)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.percussion.other.tambourine</instrumentEntityID>
+						<techniqueIDs>pt.roll</techniqueIDs>
+						<pitch>57</pitch>
+						<keyswitches>9</keyswitches>
+						<name>Tambourine (Roll)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.tenor.drum.medium</instrumentEntityID>
+						<techniqueIDs>pt.roll</techniqueIDs>
+						<pitch>57</pitch>
+						<keyswitches>10</keyswitches>
+						<name>Tenor Drum (Roll)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.triangle</instrumentEntityID>
+						<techniqueIDs>pt.roll</techniqueIDs>
+						<pitch>57</pitch>
+						<keyswitches>12</keyswitches>
+						<name>Triangle (Roll)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.bass.drum</instrumentEntityID>
+						<techniqueIDs>pt.user.super_ball</techniqueIDs>
+						<pitch>58</pitch>
+						<keyswitches>1</keyswitches>
+						<name>Bass Drum (Super ball)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.high</instrumentEntityID>
+						<techniqueIDs>pt.bowed</techniqueIDs>
+						<pitch>58</pitch>
+						<keyswitches>3</keyswitches>
+						<name>Crash Cymbal (Bowed)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.sleigh.bells</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>58</pitch>
+						<keyswitches>11</keyswitches>
+						<name>Sleigh Bells</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.tamtam</instrumentEntityID>
+						<techniqueIDs>pt.bowed</techniqueIDs>
+						<pitch>58</pitch>
+						<keyswitches>8</keyswitches>
+						<name>Tam Tam (Bowed)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.guiro</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>59</pitch>
+						<keyswitches>11</keyswitches>
+						<name>Guiro (Short)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.band.unpitched.marching.bass.drum</instrumentEntityID>
+						<techniqueIDs>pt.roll</techniqueIDs>
+						<pitch>59</pitch>
+						<keyswitches>2</keyswitches>
+						<name>Marching Bass Drum (Roll Soft)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.tamtam</instrumentEntityID>
+						<techniqueIDs>pt.crescendo</techniqueIDs>
+						<pitch>59</pitch>
+						<keyswitches>8</keyswitches>
+						<name>Tam Tam (Crescendo)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.guiro</instrumentEntityID>
+						<techniqueIDs>pt.scrape</techniqueIDs>
+						<pitch>60</pitch>
+						<keyswitches>11</keyswitches>
+						<name>Guiro (Long)</name>
+					</entry>
+				</entries>
+			</DrumKitNoteMapDefinition>
+		</entities>
+	</drumKitNoteMapDefinitions>
+	<repeatableCompositeCollectionDefinitions>
+		<entities array="true"/>
+	</repeatableCompositeCollectionDefinitions>
+	<chordSymbolAppearanceCollectionDefinitions>
+		<entities array="true"/>
+	</chordSymbolAppearanceCollectionDefinitions>
+	<chordSymbolAppearanceComponentCollectionDefinitions>
+		<entities array="true"/>
+	</chordSymbolAppearanceComponentCollectionDefinitions>
+	<percussionKitDefinitionCollectionDefinition>
+		<entities array="true"/>
+	</percussionKitDefinitionCollectionDefinition>
+	<percussionInstrumentDataCollectionDefinition>
+		<entities array="true"/>
+	</percussionInstrumentDataCollectionDefinition>
+	<frettedInstrumentDataCollectionDefinition>
+		<entities array="true"/>
+	</frettedInstrumentDataCollectionDefinition>
+	<chordDiagramCollectionDefinition>
+		<entities array="true"/>
+	</chordDiagramCollectionDefinition>
+	<lineAnnotationCollectionDefinition>
+		<entities array="true"/>
+	</lineAnnotationCollectionDefinition>
+	<lineBodyStyleCollectionDefinition>
+		<entities array="true"/>
+	</lineBodyStyleCollectionDefinition>
+	<lineStyleCollectionDefinition>
+		<entities array="true"/>
+	</lineStyleCollectionDefinition>
+</kScoreLibrary>
